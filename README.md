@@ -11,5 +11,5 @@ Windows, Linux, Spring-boot, Spring MVC, Multithreading, JavaCore, Docker, Nginx
 <h2>Сертификаты</h2>
 <br>
 <ul>
-  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20java.pdf">Основы Java</a></li>
+  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20java.pdf"><b>Основы Java</b></a></li>
 </ul>
