@@ -4,3 +4,4 @@
 <br>
 <h1>Мой стек</h1>
 <br>
+Windows, Linux, Spring-boot, Spring MVC, Multithreading, JavaCore, Docker, Nginx, Git, Patterns
