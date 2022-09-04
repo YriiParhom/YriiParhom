@@ -7,3 +7,9 @@
 Windows, Linux, Spring-boot, Spring MVC, Multithreading, JavaCore, Docker, Nginx, Git, Patterns
 <br>
 <h2>Мои Проекты</h2>
+<br>
+<h2>Сертификаты</h2>
+<br>
+<ul>
+  <li>Основы Java</li>
+</ul>
