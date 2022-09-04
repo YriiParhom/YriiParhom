@@ -2,9 +2,6 @@
 <br>
 <h3>Меня зовут, <b>Юрий Пархоменко!</b> Я разработчик на Java.</h3>
 <br>
-<br>
-<b>Мой стек</b>
-<br>
-<br>
-JavaCore, Git, Java Algorythms, Java Patterns, Multithreading
-<br>
+<b>тел</b> +7-920-880-86-93
+<b>e.mail</b> parhomenko.yurij@gmail.com
+<b>t.me</b> +7-920-880-86-93
