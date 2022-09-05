@@ -4,7 +4,7 @@
 <br>
 <h2>Мой стек</h2>
 <br>
-Windows, Linux, Spring-boot, Spring MVC, Multithreading, JavaCore, Docker, Nginx, Git, Patterns
+Windows, Linux, Spring-boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockito, Docker, Nginx, Git, Patterns
 <br>
 <h2>Мои Проекты</h2>
 <br>
