@@ -18,5 +18,5 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/patterns.pdf"><b>Шаблоны проектирования</b></a></li>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/multithreading.pdf"><b>Многопоточное и функциональное программирование</b></a></li>
   <li><a href=""><b>Web, Spring, Spring MVC</b></a></li>
-  <li><a href=""><b>Spring-boot, deployment и инфраструктура</b></a></li>
+  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/Spring%20Boot.pdf"><b>Spring-boot, deployment и инфраструктура</b></a></li>
 </ul>
