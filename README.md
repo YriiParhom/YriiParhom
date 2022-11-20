@@ -9,6 +9,7 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
 <h2>Мои Проекты</h2>
 <ul>
   <li><a href="https://github.com/YriiParhom/ConsoleChat.git"><b>Многопользовательский чат</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/Archiver.git"><b>Архиватор на Java</b></a></li>
 </ul>
 
@@ -17,11 +18,18 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
 <br>
 <ul>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20java.pdf"><b>Основы Java</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/git.pdf"><b>GIT-система контроля версий</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/alhoritms.pdf"><b>Алгоритмы и струтуры данных</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/java_core.pdf"><b>Java Core</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/patterns.pdf"><b>Шаблоны проектирования</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/multithreading.pdf"><b>Многопоточное и функциональное программирование</b></a></li>
+  <br>
   <li><a href=""><b>Web, Spring, Spring MVC</b></a></li>
+  <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/Spring%20Boot.pdf"><b>Spring Boot, deployment и инфраструктура</b></a></li>
 </ul>
