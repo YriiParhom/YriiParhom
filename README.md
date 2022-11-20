@@ -7,6 +7,11 @@
 Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockito, Docker, Nginx, Git, Patterns
 <br>
 <h2>Мои Проекты</h2>
+<ul>
+  <li><a href="https://github.com/YriiParhom/ConsoleChat.git"><b>Многопользовательский чат</b></a></li>
+  <li><a href="https://github.com/YriiParhom/Archiver.git"><b>Архиватор на Java</b></a></li>
+</ul>
+
 <br>
 <h2>Сертификаты</h2>
 <br>
