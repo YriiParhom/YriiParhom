@@ -8,9 +8,9 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
 <br>
 <h2>Мои Проекты</h2>
 <ul>
-  <li><a href="https://github.com/YriiParhom/ConsoleChat.git"><b>Многопользовательский чат</b></a></li>
+  <li><p>Multitreading, client-server architectuer<p/><a href="https://github.com/YriiParhom/ConsoleChat.git"><b>Многопользовательский чат</b></a></li>
   <br>
-  <li><a href="https://github.com/YriiParhom/Archiver.git"><b>Архиватор на Java</b></a></li>
+  <li><Inputstream, OutputStream, ZipInputstream, File><a href="https://github.com/YriiParhom/Archiver.git"><b>Архиватор на Java</b></a></li>
 </ul>
 
 <br>
