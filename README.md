@@ -7,6 +7,7 @@
 Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockito, Docker, Nginx, Git, Patterns, Hibernate, MySQL, Postgres
 <br>
 <h2>Мои Проекты</h2>
+<p>REST API, SpringBoot, Docker, docker-compose, Junit, Mockito, Test-containers: <a href="https://github.com/YriiParhom/money-transfer-service.git"><b>Сервис перевода денег</b></a><p/>
 <p>Multitreading, client-server architectuer: <a href="https://github.com/YriiParhom/ConsoleChat.git"><b>Многопользовательский чат</b></a><p/>
 <p>Inputstream, OutputStream, ZipInputstream, File: <a href="https://github.com/YriiParhom/Archiver.git"><b>Архиватор на Java</b></a><p/>
 <p>Приложение с графическим интерфейсом с использованием пакета из библиотеки Swing и шаблона проектирования MVC: <a href="https://github.com/YriiParhom/html-editor.git"><b>HTML-редактор</b></a><p/>
