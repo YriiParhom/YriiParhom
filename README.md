@@ -32,4 +32,7 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/Spring%20Boot.pdf"><b>Spring Boot, deployment и инфраструктура</b></a></li>
   <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/database.pdf"><b>Хранение данных и организация безопастности</b></a></li>
+  <br>
+  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/diploma.JPG">Диплом о профессиональной преподготовке</a> и 
+  <a href="https://github.com/YriiParhom/YriiParhom/blob/main/diploma2.JPG">Приложение к диплому<></li>
 </ul>
