@@ -33,6 +33,5 @@ Windows, Linux, Spring Boot, Spring MVC, Multithreading, JavaCore, jUnit, Mockit
   <br>
   <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/database.pdf"><b>Хранение данных и организация безопастности</b></a></li>
   <br>
-  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/diploma.JPG"><b>Диплом о профессиональной преподготовке</b></a> и 
-  <a href="https://github.com/YriiParhom/YriiParhom/blob/main/diploma2.JPG"><b>Приложение к диплому</b></a></li>
+  <li><a href="https://github.com/YriiParhom/YriiParhom/blob/main/diploma.pdf"><b>Диплом о профессиональной преподготовке</b></a></li>
 </ul>
